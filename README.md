@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a **data-driven professional** with a passion for leveraging data to solve complex challenges. My experience spans customer data analysis, sentiment analysis, and developing predictive models for a variety of applications. Recently, I've been focusing on large language models (LLMs), including BERT and retrieval-augmented generation (RAG), exploring their potential to enhance natural language processing tasks and streamline data accessibility.
